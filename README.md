@@ -1,6 +1,6 @@
 # Media Store Management System (C#)
 
-This is a simple console-based media store management system developed in **C#** as part of a university assignment. The application manages records for Books, CDs, and DVDs. 
+This is a simple console-based media store management system developed in **C#** as part of my first year university assignment. The application manages records for Books, CDs, and DVDs. 
 
 To go beyond the basic requirements, a **password authentication system** was implemented to restrict access to the application.
 
